@@ -1,0 +1,71 @@
+                <li class="list-group-item">
+                  <i class="fas fa-play"></i>
+                  <i class="fas fa-pause"></i>
+                  <span>Song Name</span>
+                </li>
+                <li class="list-group-item">
+                  <i class="fas fa-play"></i>
+                  <i class="fas fa-pause"></i>
+                  <span>Song Name</span>
+                </li>
+                <li class="list-group-item">
+                  <i class="fas fa-play"></i>
+                  <i class="fas fa-pause"></i>
+                  <span>Song Name</span>
+                </li>
+                <li class="list-group-item">
+                  <i class="fas fa-play"></i>
+                  <i class="fas fa-pause"></i>
+                  <span>Song Name</span>
+                </li>
+                <li class="list-group-item">
+                  <i class="fas fa-play"></i>
+                  <i class="fas fa-pause"></i>
+                  <span>Song Name</span>
+                </li>
+                <li class="list-group-item">
+                 <i class="fas fa-play"></i>
+                 <i class="fas fa-pause"></i>
+                  <span>Song Name</span>
+                </li>
+                <li class="list-group-item">
+                  <i class="fas fa-play"></i>
+                  <i class="fas fa-pause"></i>
+                  <span>Song Name</span>
+                </li>
+                <li class="list-group-item">
+                  <i class="fas fa-play"></i>
+                  <i class="fas fa-pause"></i>
+                  <span>Song Name</span>
+                </li>
+                <li class="list-group-item">
+                  <i class="fas fa-play"></i>
+                  <i class="fas fa-pause"></i>
+                  <span>Song Name</span>
+                </li>
+                <li class="list-group-item">
+                  <i class="fas fa-play"></i>
+                  <i class="fas fa-pause"></i>
+                  <span>Song Name</span>
+                </li>
+              </li>
+              <li class="list-group-item">
+                <i class="fas fa-play"></i>
+                <i class="fas fa-pause"></i>
+                <span>Song Name</span>
+              </li>
+              <li class="list-group-item">
+                <i class="fas fa-play"></i>
+                <i class="fas fa-pause"></i>
+                <span>Song Name</span>
+              </li>
+              <li class="list-group-item">
+                <i class="fas fa-play"></i>
+                <i class="fas fa-pause"></i>
+                <span>Song Name</span>
+              </li>
+              <li class="list-group-item">
+                <i class="fas fa-play"></i>
+                <i class="fas fa-pause"></i>
+                <span>Song Name</span>
+              </li>

@@ -1,0 +1,112 @@
+body {
+  background-color: #000000;
+  overflow-x: hidden;
+}
+
+h1 {
+  padding: 0.5em;
+  background-color: #000000;
+}
+
+ul {
+  list-style: none;
+}
+
+.main .fas {
+  font-size: 2em;
+}
+
+.play_control .fas {
+  font-size: 1em;
+}
+
+li {
+  text-decoration: none;
+}
+
+li.list-group-item i {
+  float: left;
+}
+
+li.list-group-item:hover {
+  background-color: #000099;
+  color: #99ffff;
+  cursor: pointer;
+}
+
+#controls i:hover {
+  color: #000099;
+}
+
+#trackimg {
+  width: 20em;
+  height: 20em;
+}
+
+.list-group-item i.fas.fa-pause {
+  display: none;
+}
+
+.song_list {
+  width: 1em;
+  height: 12em;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+#details h3 {
+  margin-top: 5px;
+}
+
+#player_contain {
+  display: flex;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#playlist .song_list {
+  width: 100%;
+}
+
+.disable {
+  color: grey !important;
+}
+
+.disable:hover {
+  cursor: not-allowed !important;
+}
+
+.neon {
+  color: #fff;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+
+.card {
+  height: 81vh;
+  width: 40vw;
+}
+
+canvas {
+  display: block;
+  width: 40vw;
+  height: 5em;
+}
+
+#container {
+  position: relative;
+}
+
+#logo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.track-art {
+  border: none;
+}

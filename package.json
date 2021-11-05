@@ -1,0 +1,29 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "A music player complete with a playlist and audio visualizer",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@popperjs/core": "2.9.2",
+    "audiomotion-analyzer": "3.3.0",
+    "bootstrap": "5.0.0-beta3",
+    "jquery": "3.6.0",
+    "parcel-bundler": "1.12.5"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": [
+    "html-css-js",
+    "vanilla",
+    "static",
+    "music-player"
+  ]
+}
