@@ -1,4 +1,3 @@
-import AudioMotionAnalyzer from "audiomotion-analyzer";
 $(document).ready(function () {});
 
 // Change Tab Name In correspondence to currently playing track \\\\\\\
@@ -33,20 +32,10 @@ var isPlaying = false;
 var updateTimer;
 var seekto;
 
-// Create the audio element for the player
+// Create the 
+element for the player
 var curr_track = document.createElement("audio");
 curr_track.classList.add("audio");
-
-const audioMotion = new AudioMotionAnalyzer(
-  document.getElementById("container"),
-  {
-    height: window.innerHeight - 50,
-    mode: 3,
-    barSpace: 0.6,
-    showLeds: true,
-    connectSpeakers: true
-  }
-);
 
 // Audio Tracklist
 var track_list = [
