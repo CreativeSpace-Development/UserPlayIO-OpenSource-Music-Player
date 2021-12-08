@@ -32,8 +32,7 @@ var isPlaying = false;
 var updateTimer;
 var seekto;
 
-// Create the 
-element for the player
+// Create the audio element for the player
 var curr_track = document.createElement("audio");
 curr_track.classList.add("audio");
 
@@ -43,32 +42,28 @@ var track_list = [
     name: "Flares",
     artist: "NIVIRO",
     image: "https://i1.sndcdn.com/artworks-000284683649-el5ngz-t500x500.jpg",
-    path:
-      "https://firebasestorage.googleapis.com/v0/b/userplayer-58833.appspot.com/o/flares-1586953595-MWxybuVljR.mp3?alt=media&token=10214818-3dfd-4895-b139-ea0b67cbe6a6"
+    path: "https://firebasestorage.googleapis.com/v0/b/userplayer-58833.appspot.com/o/flares-1586953595-MWxybuVljR.mp3?alt=media&token=10214818-3dfd-4895-b139-ea0b67cbe6a6",
   },
   {
     name: "With You",
     artist: "Rameses B",
     image: "https://i1.sndcdn.com/artworks-000108089418-eyd9ov-t500x500.jpg",
-    path:
-      "https://firebasestorage.googleapis.com/v0/b/userplayer-58833.appspot.com/o/Rameses%20B%20-%20With%20You.mp3?alt=media&token=43b5c409-bea6-4bc7-97ad-0a57fde7fa0d"
+    path: "https://firebasestorage.googleapis.com/v0/b/userplayer-58833.appspot.com/o/Rameses%20B%20-%20With%20You.mp3?alt=media&token=43b5c409-bea6-4bc7-97ad-0a57fde7fa0d",
   },
   {
     name: "Strada",
     artist: "Ricky Mears ft. Deja Elyze",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTyWgGGMdcCnlj96RAZ4uZFosm2ejSxcCYZdcA42qpuXQnLxXAfX5TgSBVgBOYmHIzdnjkYAyF4NbyrmmL:https://i1.sndcdn.com/artworks-000122428233-1v0l8j-t500x500.jpg&usqp=CAU",
-    path:
-      "https://firebasestorage.googleapis.com/v0/b/userplayer-58833.appspot.com/o/Ricky%20Mears%20-%20Strada%20ft.%20Deja%20Elyze.mp3?alt=media&token=cda003cb-1385-4998-86da-c95f3f211487"
+    path: "https://firebasestorage.googleapis.com/v0/b/userplayer-58833.appspot.com/o/Ricky%20Mears%20-%20Strada%20ft.%20Deja%20Elyze.mp3?alt=media&token=cda003cb-1385-4998-86da-c95f3f211487",
   },
   {
     name: "Monster",
     artist: "Nightcore",
     image:
       "https://coub-anubis-a.akamaized.net/coub_storage/coub/simple/cw_timeline_pic/a7ef8dcc0e7/6cd42db1fa82cfcb46597/1559238641_image.jpg",
-    path:
-      "https://firebasestorage.googleapis.com/v0/b/userplayer-58833.appspot.com/o/Nightcore%20-%20Monster%20(Dubstep)%20%5BHD%5D.mp3?alt=media&token=33a99e36-8ba8-41c2-a510-66c9cd2adb2a"
-  }
+    path: "https://firebasestorage.googleapis.com/v0/b/userplayer-58833.appspot.com/o/Nightcore%20-%20Monster%20(Dubstep)%20%5BHD%5D.mp3?alt=media&token=33a99e36-8ba8-41c2-a510-66c9cd2adb2a",
+  },
 ];
 
 // Functions
