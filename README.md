@@ -6,7 +6,7 @@
 </p>
 <hr>
 <p align="right">
-  <img src="https://img.shields.io/website?style=plastic&up_message=Online&url=https%3A%2F%2Fkoolkreator.github.io%2FUserPlayIO-OpenSource-Music-Player%2F" alt="Website Status">
+  <a href="https://koolkreator.github.io/UserPlayIO-OpenSource-Music-Player/" target="blank"><img src="https://img.shields.io/website?style=plastic&up_message=Online&url=https%3A%2F%2Fkoolkreator.github.io%2FUserPlayIO-OpenSource-Music-Player%2F" alt="Website Status"></a>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/koolkreator/UserPlayIO-OpenSource-Music-Player">
 </p>
 <hr>
