@@ -2,7 +2,7 @@
 
 ## Introduction
 
-UserPlayerIO is an open-source, small scale music player. It provides users with a lightweight and enjoyable music listening experience.
+UserPlayIO is an open-source, small scale music player. It provides users with a lightweight and enjoyable music listening experience.
 
 * __Discrete Controls__ - Select, play, pause, and skip music tracks with ease.
 * __Continous Streaming__ - Automatic and seamless playback of music tracks.
@@ -16,7 +16,7 @@ To get started using UserPlayIO, there is no download necessary. Simply visit th
 
 ### Live Site
 
-Check out the UserPlayerIO <a href="https://koolkreator.github.io/UserPlayIO-OpenSource-Music-Player/">Live Site</a>
+Check out the UserPlayIO <a href="https://koolkreator.github.io/UserPlayIO-OpenSource-Music-Player/">Live Site</a>
 
 ### Local Build
 
