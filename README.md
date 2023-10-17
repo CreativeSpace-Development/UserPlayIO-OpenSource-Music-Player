@@ -1,4 +1,11 @@
-<img width="200" src="https://raw.githubusercontent.com/KoolKreator/UserPlayIO-OpenSource-Music-Player/main/pics/logo.png" alt="UserPlayIO logo">
+<center><img width="200" src="https://raw.githubusercontent.com/KoolKreator/UserPlayIO-OpenSource-Music-Player/main/pics/logo.png" alt="UserPlayIO logo"></center>
+
+<hr>
+<p align="right">
+  <a href="https://koolkreator.github.io/UserPlayIO-OpenSource-Music-Player/"><img src="https://img.shields.io/website?style=plastic&up_message=Online&url=https%3A%2F%2Fkoolkreator.github.io%2FUserPlayIO-OpenSource-Music-Player%2F" alt="Website Status"></a>
+  <a href="#"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/koolkreator/UserPlayIO-OpenSource-Music-Player"></a>
+</p>
+<hr>
 
 ## Introduction
 
