@@ -2,8 +2,8 @@
 
 <hr>
 <p align="right">
-  <a href="https://koolkreator.github.io/UserPlayIO-OpenSource-Music-Player/"><img src="https://img.shields.io/website?style=plastic&up_message=Online&url=https%3A%2F%2Fkoolkreator.github.io%2FUserPlayIO-OpenSource-Music-Player%2F" alt="Website Status"></a>
-  <a href="#"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/koolkreator/UserPlayIO-OpenSource-Music-Player"></a>
+  <a href="[https://koolkreator.github.io/UserPlayIO-OpenSource-Music-Player/](https://creativespace-development.github.io/UserPlayIO-OpenSource-Music-Player/)"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fcreativespace-development.github.io%2FUserPlayIO-OpenSource-Music-Player%2F&up_message=Live&down_message=Offline">
+  </a>
 </p>
 <hr>
 
@@ -23,7 +23,7 @@ To get started using UserPlayIO, there is no download necessary. Simply visit th
 
 ### Live Site
 
-Check out the UserPlayIO <a href="https://koolkreator.github.io/UserPlayIO-OpenSource-Music-Player/">Live Site</a>
+Check out the UserPlayIO <a href="[https://koolkreator.github.io/UserPlayIO-OpenSource-Music-Player/](https://creativespace-development.github.io/UserPlayIO-OpenSource-Music-Player/)">Live Site</a>
 
 ### Local Build
 
